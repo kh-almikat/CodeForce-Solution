@@ -16,11 +16,7 @@ Here you will find C & C++ solutions to problems from popular online judges, wit
 
 ## 🌐 Problem Links
 
-A. Watermelon	Problem Link
-
-B. Queue at the School	Problem Link
-
-A. Theatre Square	Problem Link
+Soldier and Bananas - https://codeforces.com/contest/546/problem/A
 
 
 ## 🛠 Languages Used
