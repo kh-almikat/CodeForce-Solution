@@ -1,0 +1,39 @@
+
+## 🚀 Competitive Programming Repository 
+
+Welcome to my Competitive Programming Solutions Repository.
+Here you will find C & C++ solutions to problems from popular online judges, with clean code, brief explanations, and official problem links.
+
+## 📚 About This Repository
+
+🖥️ Practice competitive programming efficiently
+
+💡 Improve logic, algorithms, and problem-solving skills
+
+📂 Organized structure for easy navigation
+
+🏆 Track learning progress and showcase coding portfolio
+
+## 🌐 Problem Links
+
+A. Watermelon	Problem Link
+
+B. Queue at the School	Problem Link
+
+A. Theatre Square	Problem Link
+
+
+## 🛠 Languages Used
+C and C++
+
+
+
+## 🎯 Learning Objectives
+
+✅ Build strong programming fundamentals
+
+✅ Enhance problem-solving & logical thinking
+
+✅ Master C & C++ for competitive programming
+
+✅ Maintain a professional GitHub portfolio
