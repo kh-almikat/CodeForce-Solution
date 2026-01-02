@@ -36,4 +36,10 @@ C and C++
 
 ✅ Master C & C++ for competitive programming
 
-✅ Maintain a professional GitHub portfolio
+
+## 👨‍💻 Author
+
+👤 Khondoker Almikat  
+📧 khondoker.almikat@gmail.com  
+🌐 Bangladesh <br><br>
+
