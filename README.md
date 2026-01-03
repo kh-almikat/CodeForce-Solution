@@ -17,7 +17,8 @@ Here you will find C & C++ solutions to problems from popular online judges, wit
 ## 🌐 Problem Links
 
 Soldier and Bananas - https://codeforces.com/contest/546/problem/A  
-Theatre Square - https://codeforces.com/problemset/problem/1/A
+Theatre Square - https://codeforces.com/problemset/problem/1/A  
+A. Beautiful Matrix - https://codeforces.com/problemset/problem/263/A
 
 
 ## 🛠 Languages Used
