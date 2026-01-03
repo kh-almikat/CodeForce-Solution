@@ -18,7 +18,10 @@ Here you will find C & C++ solutions to problems from popular online judges, wit
 
 Soldier and Bananas - https://codeforces.com/contest/546/problem/A  
 Theatre Square - https://codeforces.com/problemset/problem/1/A  
-A. Beautiful Matrix - https://codeforces.com/problemset/problem/263/A
+Beautiful Matrix - https://codeforces.com/problemset/problem/263/A  
+Sum of Consecutive Odd Numbers - https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/S  
+Shape3 - https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/W  
+Shape2 - https://codeforces.com/group/MWSDmqGsZm/contest/219432/problem/T
 
 
 ## 🛠 Languages Used
